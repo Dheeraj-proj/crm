@@ -25,7 +25,7 @@ SECRET_KEY = '1tcu)oxnf8&xw$+$3vy$buasg^#-v*9(%j@r*^bs5k-+505+vp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['nk-crm.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['dk-crm.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
@@ -137,7 +137,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
